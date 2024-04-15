@@ -1,6 +1,5 @@
 import streamlit as st
 import snowflake.connector
-streamlit.title('my parents new healthy diner')
 import pandas
 st.title('Zena\'s Amazing Athleisure Catalog')
 # connect to snowflake
